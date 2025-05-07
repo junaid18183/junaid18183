@@ -32,8 +32,8 @@ Visit the [projects](https://github.com/junaid18183?tab=repositories&q=&type=pub
 
 ## 🧾 Resume
 
-📄 [Download PDF Resume](assets/Juned_Resume.pdf)  
-📜 [View YAML Resume](_data/data.yml)
+📄 [Download PDF Resume](juned_resume.pdf)  
+📜 [View YAML Resume](https://gist.github.com/junaid18183/8896f09cd09bec2ddcffb6a41b4f3eb0)
 
 ---
 
