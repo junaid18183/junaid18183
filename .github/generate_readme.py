@@ -53,6 +53,9 @@ lines.append(f"- [LinkedIn](https://linkedin.com/in/junaid18183)")
 lines.append(f"- [GitHub](https://github.com/junaid18183)")
 lines.append(f"- [Twitter](https://twitter.com/junaid18183)")
 
+lines.append("## 📬 Repositories")
+lines.append(f"- [Repositories](https://github.com/junaid18183?tab=repositories&q=&type=public&language=&sort=)")
+
 lines.append("## 📊 GitHub Stats")
 lines.append(f"![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid18183&count_private=true&show_icons=true&include_all_commits=true)")
 
