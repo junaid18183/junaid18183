@@ -35,6 +35,8 @@ Versatile DevSecOps and Platform Engineering expert with 18+ years of hands-on e
 - [LinkedIn](https://linkedin.com/in/junaid18183)
 - [GitHub](https://github.com/junaid18183)
 - [Twitter](https://twitter.com/junaid18183)
+## 📬 Repositories
+- [Repositories](https://github.com/junaid18183?tab=repositories&q=&type=public&language=&sort=)
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid18183&count_private=true&show_icons=true&include_all_commits=true)
 ---
